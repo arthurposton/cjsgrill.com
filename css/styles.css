@@ -162,7 +162,7 @@ a {
     HEADER
 --------------------------------------------------- */
 header {
-  height: 700px;
+  height: 100%;
   margin-top: 4rem;
   background-image: url("../images/CJs Grill front page.jpg");
   background-size: cover;
@@ -174,9 +174,12 @@ header {
   @media screen and (min-width: 1200px) {
     header {
       margin-top: 4.75rem;
-      height: 785px; } }
+          height: 785px;
+        /*height: auto;*/} }
   header .container, header .header-image {
-    height: 100%; }
+      /*height: 100%;*/
+        height: auto;
+        width: auto\9;}
   header .header-text {
     width: 560px;
     margin-top: -1rem;
