@@ -164,7 +164,7 @@ a {
 header {
   height: 100%;
   margin-top: 4rem;
-  background-image: url("../images/Wings_header-1.jpg");
+  background-image: url("../images/honey_barbque_wings.jpg");
   background-size: cover;
   background-blend-mode: overlay;
   background-color: rgba(0, 0, 0, 0.3); }
@@ -312,7 +312,7 @@ header {
 .our-menu .entrees .section-header-image {
   background-image: url("../images/entrees.jpg"); }
 .our-menu .beverages .section-header-image {
-  background-image: url("../images/beverages.jpg"); }
+  background-image: url("../images/pepsi_images.jpg"); }
 .our-menu .beverages .beverages-main {
   margin-top: 3rem; }
 
