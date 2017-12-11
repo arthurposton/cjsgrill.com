@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="carlos-grill.focuseddevelopment.com" uploadOnCheckin="09e01a70-c18b-4fc3-be43-a8ffa4e860c6">
+  <component name="PublishConfigData" serverName="carlos-grill.focuseddevelopment.com" uploadOnCheckin="d39acf49-f169-4bd6-9bae-0fb44c192af9">
     <serverData>
-      <paths name="//appsvr01/inetpub/wwwroot/cjsgrill.com">
+      <paths name="carlos-grill.focuseddevelopment.com">
         <serverdata>
           <mappings>
             <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
@@ -10,6 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="//appsvr01/inetpub/wwwroot/cjsgrill.com" />
+    <option name="myUploadOnCheckinName" value="carlos-grill.focuseddevelopment.com" />
   </component>
 </project>
